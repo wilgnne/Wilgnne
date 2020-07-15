@@ -11,7 +11,7 @@
 👨‍🎓 Studying Computer Engineering here in Furg-RS  
 🚧 **Current Project:** [NOCSim](https://github.com/Wilgnne)
 
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=Wilgnne&show_icons=true">
+![github stats](https://github-readme-stats.vercel.app/api?username=Wilgnne&show_icons=true)
 
 ###### 💾 EOF
 
