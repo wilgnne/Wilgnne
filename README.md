@@ -1,6 +1,3 @@
-
-### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,I am Wilgnne K.
-
 <h3 align="center">
   Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>!
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
@@ -8,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img width="512" src="https://raw.githubusercontent.com/Wilgnne/Wilgnne/master/docs/undraw_coding_6mjf.png">
+  <img width="512" src="https://raw.githubusercontent.com/Wilgnne/Wilgnne/master/docs/undraw_developer_activity_bv83.png">
 </p>
 
 <br />
@@ -18,7 +15,7 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=Wilgnne&show_icons=true" />
   </a>
   <a href="https://github.com/wilgnne">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilgnne&layout=compact)" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
   </a>
 </div>
 
