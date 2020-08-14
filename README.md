@@ -2,7 +2,7 @@
 ### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,I am Wilgnne K.
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Wilgnne&show_icons=true)
-<img src="docs/undraw_coding_6mjf.png" width="256px">
+<img src="https://github.com/Wilgnne/Wilgnne/raw/master/docs/undraw_coding_6mjf.png" width="256px">
 
 <div align="center">
   
