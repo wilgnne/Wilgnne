@@ -1,10 +1,8 @@
 
 ### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,I am Wilgnne K.
-<div align="center">
-  <a href="https://github.com/Wilgnne">
-    <img align="left" width="256px" src="https://github.com/Wilgnne/Wilgnne/raw/master/docs/undraw_coding_6mjf.png" />
-  </a>
-</div>
+<p align="center">
+  <img width="255" height="255" src="https://raw.githubusercontent.com/Wilgnne/Wilgnne/master/docs/undraw_coding_6mjf.png">
+</p>
 
 <br />
 
