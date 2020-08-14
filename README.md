@@ -17,9 +17,12 @@
 
 - 👨‍💻 19 Years old Developer
 - 👨‍🎓 Studying Computer Engineering here in Furg-RS
-- 🚧 **Current Project:** [NOCSim](https://github.com/Wilgnne)
+- 🌱 I’m currently learning molecular docking, C/C++ for systems
+- 💬 Ask me about: Naruto, Linux, Computer Architecture and Organization
+- ⚡ Technologies: React, Node, Electron, React-Native, Unity C#
+- 🚧 **Current Project:** [VINA-Framework](https://github.com/Wilgnne)
 
-![Status](https://github-readme-stats.vercel.app/api?username=Wilgnne&show_icons=true)
+![Status](https://github-readme-stats.vercel.app/api?username=Wilgnne&show_icons=true&count_private=true&hide=issues)
 ![Status](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ###### 💾 EOF
