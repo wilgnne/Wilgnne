@@ -28,7 +28,3 @@
 ###### 💾 EOF
 
 ---
-
-![Made with love in Brazil](https://madewithlove.now.sh/br?heart=true)
-
-## ⭐️ from [Wilgnne K.](https://github.com/Wilgnne)
