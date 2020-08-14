@@ -1,7 +1,14 @@
 
 ### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,I am Wilgnne K.
+
+<h3 align="center">
+  Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>!
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+  ,I am Wilgnne K.
+</h3>
+
 <p align="center">
-  <img width="255" height="255" src="https://raw.githubusercontent.com/Wilgnne/Wilgnne/master/docs/undraw_coding_6mjf.png">
+  <img width="512" src="https://raw.githubusercontent.com/Wilgnne/Wilgnne/master/docs/undraw_coding_6mjf.png">
 </p>
 
 <br />
