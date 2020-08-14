@@ -1,14 +1,15 @@
 
 ### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,I am Wilgnne K.
 
-<div>
+<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Wilgnne&show_icons=true" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Wilgnne&show_icons=true" />
   </a>
   <a href="https://github.com/Wilgnne">
-    <img align="left" width="25%" src="https://github.com/Wilgnne/Wilgnne/raw/master/docs/undraw_coding_6mjf.png" />
+    <img align="left" width="256px" src="https://github.com/Wilgnne/Wilgnne/raw/master/docs/undraw_coding_6mjf.png" />
   </a>
 </div>
+
 
 <div align="center">
   
