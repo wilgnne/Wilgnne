@@ -14,19 +14,12 @@
 
 </div>
 
-
-
-👨‍💻 19 Years old Developer  
-👨‍🎓 Studying Computer Engineering here in Furg-RS  
+👨‍💻 19 Years old Developer
+👨‍🎓 Studying Computer Engineering here in Furg-RS
 🚧 **Current Project:** [NOCSim](https://github.com/Wilgnne)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Wilgnne&show_icons=true" />
-</a>
-
-<a href="https://github.com/wilgnne">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
-</a>
+![Status](https://github-readme-stats.vercel.app/api?username=Wilgnne&show_icons=true)
+![Status](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ###### 💾 EOF
 
