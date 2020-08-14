@@ -14,9 +14,13 @@
 
 </div>
 
+
 👨‍💻 19 Years old Developer
+
 👨‍🎓 Studying Computer Engineering here in Furg-RS
+
 🚧 **Current Project:** [NOCSim](https://github.com/Wilgnne)
+
 
 ![Status](https://github-readme-stats.vercel.app/api?username=Wilgnne&show_icons=true)
 ![Status](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
