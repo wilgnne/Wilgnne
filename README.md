@@ -1,8 +1,14 @@
 
 ### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,I am Wilgnne K.
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Wilgnne&show_icons=true)
-<img src="https://github.com/Wilgnne/Wilgnne/raw/master/docs/undraw_coding_6mjf.png" width="256px">
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Wilgnne&show_icons=true" />
+  </a>
+  <a href="https://github.com/Wilgnne">
+    <img align="left" width="25%" src="https://github.com/Wilgnne/Wilgnne/raw/master/docs/undraw_coding_6mjf.png" />
+  </a>
+</div>
 
 <div align="center">
   
@@ -10,11 +16,11 @@
 
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilgnne&layout=compact)](https://github.com/wilgnne)
+
 👨‍💻 19 Years old Developer  
 👨‍🎓 Studying Computer Engineering here in Furg-RS  
 🚧 **Current Project:** [NOCSim](https://github.com/Wilgnne)
-
-
 
 ###### 💾 EOF
 
