@@ -1,7 +1,7 @@
 
 ### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,I am Wilgnne K.
 
-<div align="center">
+<div align="center" height="200px">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=Wilgnne&show_icons=true" />
   </a>
