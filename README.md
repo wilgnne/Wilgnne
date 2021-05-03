@@ -20,7 +20,7 @@
 - 🌱 I’m currently learning molecular docking, C/C++ for systems
 - 💬 Ask me about: Naruto, Linux, Computer Architecture and Organization
 - ⚡ Technologies: React, Node, Electron, React-Native, Unity C#
-- 🚧 **Current Project:** [VINA-Framework](https://github.com/Wilgnne)
+- 🚧 **Current Project:** [VSFramework](https://github.com/combilab-furg)
 
 ![Status](https://github-readme-stats.vercel.app/api?username=Wilgnne&show_icons=true&title_color=3C91E6&icon_color=A2D729&text_color=817F82&bg_color=0000)
 ![Status](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&title_color=3C91E6&icon_color=A2D729&text_color=817F82&bg_color=0000)
