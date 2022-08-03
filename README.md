@@ -27,9 +27,8 @@
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/Wilgnne">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Wilgnne's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=wilgnne&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Wilgnne's streak" src="https://github-readme-streak-stats.herokuapp.com?user=wilgnne&theme=dracula&date_format=j%20M%5B%20Y%5D&locale=pt-br"/>
   </a>
-  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
 
 ![Status](https://github-readme-stats.vercel.app/api?username=Wilgnne&show_icons=true&title_color=3C91E6&icon_color=A2D729&text_color=817F82&bg_color=0000)
