@@ -22,6 +22,16 @@
 - ⚡ Technologies: React, Node, Electron, React-Native, Unity C#
 - 🚧 **Current Project:** [Meu Hydra](https://play.google.com/store/apps/details?id=com.greennext.fieldnotes)
 
+## 🔥 Streak stats
+
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=monokai-metallian&hide_border=true"/>
+  </a>
+  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+</p>
+
 ![Status](https://github-readme-stats.vercel.app/api?username=Wilgnne&show_icons=true&title_color=3C91E6&icon_color=A2D729&text_color=817F82&bg_color=0000)
 ![Status](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&title_color=3C91E6&icon_color=A2D729&text_color=817F82&bg_color=0000)
 
