@@ -33,7 +33,7 @@
 
 ## 🔥 GitHub stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wilgnne&show_icons=true&title_color=3C91E6&icon_color=A2D729&text_color=817F82&bg_color=0000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wilgnne&show_icons=true&title_color=3C91E6&icon_color=A2D729&text_color=817F82&bg_color=0000" />
 </p>
 
 ## 🔥 Top Languages stats
