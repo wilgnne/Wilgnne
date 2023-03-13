@@ -42,7 +42,9 @@
 </p>
 
 
+## 🔥 Badges
 [![An image of @wilgnne's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/wilgnne)](https://holopin.io/@wilgnne)
+
 ###### 💾 EOF
 
 ---
